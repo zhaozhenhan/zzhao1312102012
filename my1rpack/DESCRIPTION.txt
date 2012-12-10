@@ -1,0 +1,10 @@
+Package: my1rpack
+Type: Package
+Title: Homework 2
+Version: 1.0
+Date: 2012-11-01
+Author: Huinan Zhang
+Maintainer: zhenhan Zhao <george.zhao888@gmail.com>
+Depends: tikzDevice
+Description: Contains a function for generating tikz plots and a dataset containing winter Olympics medal statistics by country.
+License: GPL-3

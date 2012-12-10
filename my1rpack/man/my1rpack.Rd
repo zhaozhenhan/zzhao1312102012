@@ -23,7 +23,7 @@ License: \tab GPL-3\cr
 }
 }
 \author{
-  Huinan Zhang
+  Zhenhan Zhao
   
   Maintainer: Zhenhan Zhao <george.zhao888@gmail.com>
 
@@ -35,7 +35,7 @@ License: \tab GPL-3\cr
 \keyword{ package }
 
 \examples{
-require(my1rpack)
+library(my1rpack)
 
 
 }
